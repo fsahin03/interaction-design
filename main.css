@@ -1,0 +1,26 @@
+body {
+    background-color: royalblue;
+}
+.vraagNummer {
+width: 400px;
+padding: 30px;
+border: 2px solid red;
+margin: 0;
+position: fixed;
+top: 20%;
+left: 25%;
+margin-left: 100px;
+height: 300px;
+}
+.buttons {
+    width: 250px;
+    height: 35px;
+    margin-top: 10px;
+    position: relative;
+    margin-left: 75px;
+}
+.points {
+    position: absolute;
+    bottom: 0;
+    left : 0;
+}
